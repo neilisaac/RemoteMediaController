@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Remote Media</string>
+    <string name="menu_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="down">Volume Down</string>
+    <string name="mute">Mute</string>
+    <string name="up">Volume Up</string>
+    <string name="host">Host to control</string>
+    <string name="host_hint">Host name or IP address</string>
+    <string name="enable_server">Enable server on this device</string>
+
+</resources>
